@@ -1,4 +1,5 @@
 // SimpleRx - the slave or the receiver
+//References - Inspiredd by Transciever Demo (https://forum.arduino.cc/t/simple-nrf24l01-2-4ghz-transceiver-demo/405123) (Robin2, 2016)
 
 #include <SPI.h>
 #include <nRF24L01.h>
